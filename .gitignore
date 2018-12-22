@@ -1,0 +1,17 @@
+.idea/
+.settings/.jsdtscope
+.settings/org.eclipse.wst.jsdt.ui.superType.container
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+pages/life/js/life - 副本.js
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.ma
+.DS_Store
+node_modules/
+dist
