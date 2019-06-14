@@ -47,7 +47,7 @@
 
 - 1 配置打包目录
 
-```javascript
+```bash
 
   // 修改打包文件输出地址,配置文件在rollup.config.js中, output属性
   {
@@ -65,7 +65,7 @@
 
 - 2 开发时,依次运行
 
-```javascript
+```bash
 
 //  开始打包dev环境文件
 npm run dev
@@ -73,7 +73,7 @@ npm run dev
 ```
 - 3 发布时,依次运行
 
-```javascript
+```bash
 
 // 打包压缩混淆文件
 npm run build
