@@ -1,4 +1,4 @@
-import Zepto from './../dom/Zepto'
+import Zepto from '../dom/Zepto'
 import Base from ''
 const request = Zepto.ajax
 class Api extends Base {

@@ -1,3 +1,9 @@
+/**
+ * 作用: 生成version打印日志
+ * 例如:versioner('leyaoyao.com HTML5 AD-SDK | Version: ', PackageJSON['version'])
+ * @param title
+ * @param content
+ */
 function versioner(title, content) {
   title = title || 'leyaoyao.com HTML5 AD-SDK | Version: '
   content = content || ''
